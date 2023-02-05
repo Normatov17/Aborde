@@ -124,6 +124,16 @@ li{
     padding-bottom: 240px;
 }
 
+.hero-image{
+    display: flex;
+    width: 50%;
+    position: absolute;
+    right: 0;
+    left: 55%;
+    top: 0;
+    height: 100%;
+   
+}
 .hero-content-title{
     max-width: 600px;
     font-size: 64px;
@@ -144,16 +154,6 @@ li{
     background: #35F9A0;
 }
 
-.hero-image{
-    display: flex;
-    width: 50%;
-    position: absolute;
-    right: 0;
-    left: 55%;
-    top: 0;
-    height: 100%;
-   
-}
 
 .hero-image-inside{
     width: 100%;
